@@ -1,4 +1,33 @@
 --- 
-cursor_positions: []
-
+cursor_positions: 
+  - :path: public/hello.html
+    :cursor_offset: 107
+    :timestamp: 2012-03-22 22:35:46 +00:00
+  - :path: Gemfile
+    :cursor_offset: 620
+    :timestamp: 2012-03-22 22:25:33 +00:00
+  - :path: config/routes.rb
+    :cursor_offset: 115
+    :timestamp: 2012-03-29 21:49:44 +01:00
+  - :path: app/controllers/static_pages_controller.rb
+    :cursor_offset: 89
+    :timestamp: 2012-03-29 21:50:44 +01:00
+  - :path: spec/requests/static_pages_spec.rb
+    :cursor_offset: 214
+    :timestamp: 2012-03-29 22:19:31 +01:00
+    :selection_offset: 204
+    :block_selection_mode: false
+  - :path: app/views/static_pages/home.html.erb
+    :cursor_offset: 124
+    :timestamp: 2012-03-29 22:27:44 +01:00
+    :selection_offset: 104
+    :block_selection_mode: false
+  - :path: app/views/static_pages/about.html.erb
+    :cursor_offset: 28
+    :timestamp: 2012-03-29 22:29:33 +01:00
+  - :path: app/views/static_pages/help.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-03-29 22:28:57 +01:00
+    :selection_offset: 28
+    :block_selection_mode: false
 files_to_retain: 0
