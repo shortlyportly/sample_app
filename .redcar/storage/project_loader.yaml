@@ -4,3 +4,7 @@ open_files:
   - app/views/static_pages/home.html.erb
   - app/views/static_pages/about.html.erb
   - app/views/static_pages/help.html.erb
+  - Gemfile
+  - spec/spec_helper.rb
+  - .rspec
+  - Guardfile
