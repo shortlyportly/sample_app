@@ -2,6 +2,10 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.2'
 gem 'irbtools', :require => false
+gem 'bootstrap-sass'
+
+gem 'simplecov', :require => false, :group => :test
+
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -10,6 +14,11 @@ group :development, :test do
   gem 'sqlite3'
   gem 'rspec-rails'
   gem 'guard-rspec'
+  gem 'growl'
+
+  
+  gem 'guard', :git => 'git://github.com/guard/guard.git'
+  gem 'ruby_gntp'
 end
 
 
